@@ -8,7 +8,7 @@ git commit -m "nome da modificação"   = sobe as modificações, use i para ins
 git diff     = faz um add mostrando diferenças entre o antes e depois, para fazer o git diff para arquivos que já foram git add use o git diff --staged
 git push     = envia as alterações para o repositório.
 git log      = mostra o histórico dos commits realizados. 
-
+git restore  = remove coisas que foram salvas no trabalho, e sai do changed
 
 estados do git
 untracked        =  
