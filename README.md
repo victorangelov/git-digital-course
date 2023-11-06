@@ -1,4 +1,4 @@
-comandos git
+comandos git/versionamento
 git init     = inicia um repositório git
 git clone    = copia um repositório da internet http
 
@@ -13,3 +13,4 @@ unmodified       = já mapeado, já passou para staged e comitado
 modified         = arquivo modificado, precisa subir tem que ir para staged
 staged           = esta
 
+# Salvando modificações no Git
