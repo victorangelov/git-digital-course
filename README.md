@@ -8,8 +8,8 @@
 * git push     = envia as alterações para o repositório. empurra para algum lugar. 
 * git log      = mostra o histórico dos commits realizados. 
 * git restore  = remove coisas que foram salvas no trabalho, e sai do changed para retornar a área de change caso já tenha sido dado o git add git restore --staged README.md
-* git pull     = puchar de algum lugar
-* git fech
+* git pull     = puchar de algum repositório as modificações feitas por outras pessoas
+* git fech origin     = mostra as modificações do repositorio compartilhado mostra as modificações antes do pull
 ## estados do git
 * untracked        =  
 * unmodified       = já mapeado, já passou para staged e comitado
