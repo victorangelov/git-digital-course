@@ -5,7 +5,9 @@ git clone    = copia um repositório da internet http
 git status   = ve o status do git
 git add      = manda para o estado staged
 git commit -m "nome da modificação"   = sobe as modificações, use i para inserir esc para sair e :wq para finalizar o commit só para para comitar após o git add ou o git diff
-git dif      = faz um add mostrando diferenças entre o antes e depois, para fazer o git diff para arquivos que já foram git add use o git diff --staged
+git diff     = faz um add mostrando diferenças entre o antes e depois, para fazer o git diff para arquivos que já foram git add use o git diff --staged
+git push     = envia as alterações para o repositório.
+
 
 estados do git
 untracked        =  
