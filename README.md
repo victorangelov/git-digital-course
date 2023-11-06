@@ -14,3 +14,4 @@
 * unmodified       = já mapeado, já passou para staged e comitado
 * modified         = arquivo modificado, precisa subir tem que ir para staged
 * staged           = 
+
