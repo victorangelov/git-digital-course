@@ -13,6 +13,7 @@
 * git branch nomedaramificação    = cria uma ramificação do código para trabalhos paralelos. 
 * git log --oneline --decorate = comando git para ver em qual  branch estamos atualmente. 
 * git checkout testing = comando para mudar a branch atual
+* git merge testing = está puchando uma ramificação do código que estava sendo trabalhada em paralelo. 
 ## estados do git
 * untracked        = não rastreado 
 * unmodified       = já mapeado, já passou para staged e comitado
